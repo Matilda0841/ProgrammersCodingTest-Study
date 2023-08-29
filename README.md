@@ -13,3 +13,4 @@
 
 ### TIL
 - 8/28 : ProgrammersBeginner 1일차 4문제 풀이 완료
+- 8/29 : ProgrammersBeginner 2일차 4문제 풀이 완료
