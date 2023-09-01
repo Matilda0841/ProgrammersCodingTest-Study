@@ -1,4 +1,4 @@
-package programmersBeginner.secondDay;
+package programmersBeginner.PB_02_secondDay;
 
 //첫 번째 분수의 분자와 분모를 뜻하는 numer1, denom1,
 // 두 번째 분수의 분자와 분모를 뜻하는 numer2, denom2가 매개변수로 주어질때,

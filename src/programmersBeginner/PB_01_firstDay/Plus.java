@@ -1,4 +1,4 @@
-package programmersBeginner.firstDay;
+package programmersBeginner.PB_01_firstDay;
 
 // 정수 num1과 num2가 주어질 때, num1과 num2의 합을 return하는 함수, solution을 완성해주세요.
 
