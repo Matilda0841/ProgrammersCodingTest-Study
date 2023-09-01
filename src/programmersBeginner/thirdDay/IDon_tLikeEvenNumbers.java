@@ -7,7 +7,16 @@ import java.util.Arrays;
 public class IDon_tLikeEvenNumbers {
   public static void main(String[] args) {
     int n = 10;
-    int[] answer = new int[(n+1)/2];
+    Solution solution = new Solution();
+
+    System.out.println(Arrays.toString(solution.solution(n)));
+  }
+
+
+static class Solution {
+  public int[] solution(int n) {
+
+    int[] answer = new int[(n + 1) / 2];
 
     int index = 0;
     for (int i = 1; i <= n; i++) {
@@ -15,7 +24,9 @@ public class IDon_tLikeEvenNumbers {
         answer[index++] = i;
       }
     }
-
-    System.out.println(Arrays.toString(answer));
+    return answer;
   }
+}
+
+
 }
