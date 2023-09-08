@@ -1,4 +1,4 @@
-package programmersBeginner.PB_O5_fifthDay;
+package programmersBeginner.PB_05_fifthDay;
 
 // 머쓱이네 옷가게는 10만원 이상 사면 5%, 30만원 이상 사면 10%, 50만원 이상 사면 20%를 할인해준다.
 // 구매한 옷의 가격 price가 주어질 때, 지불 해야 할 금액을 return하도록 solution 메서드를 완성해주세요.
