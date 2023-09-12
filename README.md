@@ -8,8 +8,8 @@
 
 ## 목표! 
 9/30일까지 기본 연습 100문제 풀기!
-
-9/4일까지 1장 정리 완료
+<br>
+9/30일까지 기초 트레이닝 124문제 풀기!
 
 ### TIL
 - 8/28 : ProgrammersBeginner 1일차 4문제 풀이 완료
@@ -18,5 +18,9 @@
 - 9/01 : ProgrammersBeginner 4일차 4문제 풀이 완료
 - 9/04 : ProgrammersBeginner 5일차 4문제 풀이 완료
 - 9/08 : ProgrammersBeginner 6일차 4문제 풀이 완료
+- 9/12 : ProgrammersBeginner 7일차 4문제 풀이 완료
+
+### TIL
 - 9/08 : ProgrammersChallenges 1일차 5문제 풀이 완료
-- 
+- 9/12 : ProgrammersChallenges 2일차 5문제 풀이 완료
+- 9/12 : ProgrammersChallenges 3일차 5문제 풀이 완료
