@@ -19,8 +19,11 @@
 - 9/04 : ProgrammersBeginner 5일차 4문제 풀이 완료
 - 9/08 : ProgrammersBeginner 6일차 4문제 풀이 완료
 - 9/12 : ProgrammersBeginner 7일차 4문제 풀이 완료
+- 9/13 : ProgrammersBeginner 8일차 4문제 풀이 완료
 
 ### TIL
 - 9/08 : ProgrammersChallenges 1일차 5문제 풀이 완료
 - 9/12 : ProgrammersChallenges 2일차 5문제 풀이 완료
 - 9/12 : ProgrammersChallenges 3일차 5문제 풀이 완료
+- 9/13 : ProgrammersChallenges 4일차 5문제 풀이 완료
+- 9/13 : ProgrammersChallenges 5일차 5문제 풀이 완료
